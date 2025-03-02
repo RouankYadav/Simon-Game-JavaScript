@@ -22,4 +22,8 @@ If you click the wrong button, the game resets, and you have to start over.<br>
 <h2>Installation</h2> <br>
 No installation required! Simply open the index.html file in a browser.
 
+<h2>Website Hosted </h2>
+https://rouankyadav.github.io/Simon-Game-JavaScript/
+
+
 
